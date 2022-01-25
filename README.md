@@ -1,6 +1,6 @@
-Github_Commad_For_Beginers <br />
+#Github_Commad_For_Beginers <br />
 
- Git commands : <br />
+#Git commands : <br />
 
 (1). Git checkout [branch name]   _   // for changing braches  <br />
 (2). Git pull                      // for adding new changes from online Repo <br />
