@@ -2,9 +2,9 @@
 
 ## Git commands : ##
 
-(1).## Git checkout [branch name]  ##     // for changing braches
-(2).## Git pull  ##                         // for adding new changes from online Repo
-(3).## git status ##
-(4).## git add .  ##  ( . (dot) this is dot) 
-(5).## git commit -m "new changes" ##
-(6).## git push origin [branch name] ##
+_**(1). Git checkout [branch name]   **_   // for changing braches
+_**(2). Git pull  **   _                    // for adding new changes from online Repo
+_**(3). git status**_
+_**(4).git add .  ( . (dot) this is dot) **_
+_**(5).  git commit -m "new changes" **_
+_**(6). git push origin [branch name] **_
